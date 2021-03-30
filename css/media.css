@@ -1,0 +1,111 @@
+
+@media (max-width: 576) { }
+
+@media (min-width: 577px) and (max-width: 767px) { 
+    button.navbar-toggler {
+        background-color: #000 !important;
+    }
+    .navbar-toggler-icon {
+        background: #000;
+        border-color: #000;
+    }
+    .services .col-md-3 .thumbnail {
+        padding: 5px 5px !important;
+    }
+    .slider-area .single-slider .slider-content h1 {
+        color: #fff;
+        letter-spacing: 3px;
+        font-size: 20px;
+    }
+    .pricing_section .price_content {
+        padding: 25px 5px;
+    }
+    .thumbnail {
+        margin-bottom: 15px;
+    }
+    .pricing_section .price_content {
+        margin-bottom: 15px;
+    }
+    .contact_details .left_contact h2 {
+        font-weight: bold;
+        padding-bottom: 10px;
+        font-size: 16px;
+    }  
+    .contact_details .right_contact h2 {
+        font-weight: bold;
+        padding-bottom: 10px;
+        font-size: 16px;
+    }
+    .contact_details .left_contact .col-md-6.col-sm-12 input {
+        width: 100%;
+        margin-bottom: 6px;
+        height: 20px;
+        border: 2px solid #e5e6e5;
+        border-radius: 50px;
+        padding: 14px;
+    }
+    .contact_details .left_contact p {
+        padding-bottom: 0px;
+    }
+    .counter_section .counter span.counter_value {
+        font-size: 25px;
+    }
+    .counter_section .counter h4 {
+        font-size: 12px !important;
+        text-transform: uppercase;
+        font-weight: inherit !important;
+    }
+    #services-02 .service-tab .tab-bg > h3 {
+        font-size: 18px;
+        margin-bottom: 14px;
+    }
+    #services-02 .service-tab .tab-bg > h2 {
+        font-size: 28px;
+        color: #bbb;
+        font-weight: 100;
+        margin-bottom: 12px;
+    }
+    #services-02 .service-tab .tab-bg {
+        background: #fff;
+        padding: 10px 30px;
+    }
+    #services-02 .service-tab .tab-bg a {
+        font-size: 11px;
+        padding: 5px 25px;
+    }
+    #services-02 .service-tab .tab-bg  p {
+        line-height: 18px;
+        margin-bottom: 10px;
+    }
+    #services-02 #services-tabs ul.text-center{
+        margin-bottom: 40px;
+        width: 100%;
+    }
+    #services-tabs ul li{
+        padding: 5px 30px;
+        display: inline-block;
+    }
+    #services-tabs ul li a{
+        font-size: 14px;
+        color: #212226;
+        text-transform: uppercase;
+        font-weight: bold;
+        padding: 0;
+        text-decoration: none;
+        font-family: 'Roboto Condensed', sans-serif;
+        display: inline-block;
+    }
+    
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .slider-area .single-slider .slider-content h1 {
+        color: #fff;
+        letter-spacing: 3px;
+        font-size: 20px;
+    }
+ }
+
+@media (min-width: 993px) and (max-width: 1200px) { }
+
+@media (min-width: 1200px) { }
